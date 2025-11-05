@@ -54,5 +54,4 @@ This project presents an interactive **Sales Dashboard** designed to visualize a
 
 > **Note:** This project is part of my data analytics and visualization portfolio, demonstrating business reporting and KPI tracking skills.
 
-
-## 📁 Project Structure  
+ 
