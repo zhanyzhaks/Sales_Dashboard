@@ -1,6 +1,6 @@
 # 🧾 Sales Dashboard Project  
 
-![Sales Dashboard](Images/Sales.png)
+![Sales Dashboard](Sales.png)
 
 ## 📊 Project Overview  
 This project presents an interactive **Sales Dashboard** designed to visualize and analyze business sales performance data. The dashboard provides a comprehensive overview of key metrics such as **Total Sales**, **Total Profit**, **Profit Percentage**, and **Top-Performing Products**, enabling data-driven decision-making for sales and inventory management.  
@@ -36,5 +36,23 @@ This project presents an interactive **Sales Dashboard** designed to visualize a
 - Monthly sales trends indicated peak performance during **October** and moderate growth in **June**.  
 
 ---
+
+## 🎯 Learning Outcomes  
+- Gained hands-on experience in developing professional, interactive dashboards.  
+- Strengthened ability to design and communicate business insights visually.  
+- Enhanced proficiency in Excel/Power BI analytics and data storytelling.  
+
+---
+
+## 👤 Author  
+**Zhantim Zhakom**  
+📧 Email: [zhanyzhaks@gmail.com](mailto:zhanyzhaks@gmail.com)  
+🌐 GitHub: [github.com/zhanyzhaks](https://github.com/zhanyzhaks)  
+💼 LinkedIn: [linkedin.com/in/zhantim-zhakom](https://linkedin.com/in/zhantim-zhakom)
+
+---
+
+> **Note:** This project is part of my data analytics and visualization portfolio, demonstrating business reporting and KPI tracking skills.
+
 
 ## 📁 Project Structure  
