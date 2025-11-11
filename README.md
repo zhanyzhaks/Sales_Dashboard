@@ -8,7 +8,7 @@ This project presents an interactive **Sales Dashboard** designed to visualize a
 ---
 
 ## 🛠️ Tools & Technologies  
-- **Microsoft Excel / Power BI** – for dashboard design and interactivity  
+- **Power BI** – for dashboard design and interactivity  
 - **Dataset:** Simulated transactional sales data  
 - **Skills Demonstrated:**  
   - Data cleaning and transformation  
